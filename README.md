@@ -17,6 +17,7 @@
 <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="100" height="100">
 </div>
 
+[![Seongju90's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongju90&theme=github_dark)](https://github.com/Seongju90/github-readme-stats)
 
 <!--
 **Seongju90/Seongju90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
