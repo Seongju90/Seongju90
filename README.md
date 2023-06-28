@@ -1,4 +1,5 @@
-### Hi there 👋
+![Black Modern Personal LinkedIn Banner](https://github.com/Seongju90/Seongju90/assets/99510035/76f5355d-57ea-4951-8876-67c8b454ba4c)
+
 
 <!--
 **Seongju90/Seongju90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
