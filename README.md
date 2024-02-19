@@ -9,7 +9,7 @@
 
 <div align="center">
   
-[![Seongju90's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongju90&theme=github_dark)](https://github.com/Seongju90/github-readme-stats)
+
   
 </div>
 
